@@ -15,10 +15,10 @@ stages:
   is_completed: true
 - id: 388
   step: 6093
-  is_completed: false
+  is_completed: true
 - id: 389
   step: 6094
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Computer programming
@@ -106,6 +106,8 @@ topics:
   - title: Member functions
     theory_id: 6364
   - title: Object declarations
-    theory_id: 9364
+    theory_id: 10698
+  - title: Companion object
+    theory_id: 10707
   - title: Enum
     theory_id: 6245
